@@ -1,4 +1,4 @@
-# courseinfo (https://github.com/coraige/cor-fullstack-open/tree/main/part1/courseinfo)
+# [courseinfo] (https://github.com/coraige/cor-fullstack-open/tree/main/part1/courseinfo)
 The final solution for exercises 1.1-1.5 is available in "courseinfo" folder.
 
 # unicafe
